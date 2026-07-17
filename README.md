@@ -68,46 +68,34 @@ const ivoryThule = {
 
 **LLMs & AI Platforms / 大模型与 AI 平台**
 
-<sub>Hands-on across a broad range of mainstream open- and closed-source model ecosystems<br />持续使用并比较主流开源与闭源大模型生态</sub>
+<p>
+  <img width="48" height="48" src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/chatgpt-dark.svg" alt="ChatGPT" title="ChatGPT / OpenAI" />&nbsp;
+  <img width="48" height="48" src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/claude-dark.svg" alt="Claude" title="Claude" />&nbsp;
+  <img width="48" height="48" src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/gemini-dark.svg" alt="Gemini" title="Gemini" />&nbsp;
+  <img width="48" height="48" src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/deepseek-dark.svg" alt="DeepSeek" title="DeepSeek" />&nbsp;
+  <img width="48" height="48" src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/grok-dark.svg" alt="Grok" title="Grok" />&nbsp;
+  <img width="48" height="48" src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/mistral-dark.svg" alt="Mistral" title="Mistral" />&nbsp;
+  <img width="48" height="48" src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/ollama-dark.svg" alt="Ollama" title="Ollama" />&nbsp;
+  <img width="48" height="48" src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/huggingface-dark.svg" alt="Hugging Face" title="Hugging Face" />&nbsp;
+  <img width="48" height="48" src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/langchain-dark.svg" alt="LangChain" title="LangChain" />
+</p>
 
-<p>
-  <img src="https://img.shields.io/badge/ChatGPT-0D1117?style=for-the-badge&logo=openai&logoColor=F5E6C8" alt="ChatGPT" />
-  <img src="https://img.shields.io/badge/Claude-8B6914?style=for-the-badge&logo=anthropic&logoColor=F5E6C8" alt="Claude" />
-  <img src="https://img.shields.io/badge/Gemini-0D1117?style=for-the-badge&logo=googlegemini&logoColor=F5E6C8" alt="Gemini" />
-  <img src="https://img.shields.io/badge/DeepSeek-8B6914?style=for-the-badge&logo=deepseek&logoColor=F5E6C8" alt="DeepSeek" />
-  <img src="https://img.shields.io/badge/Qwen-0D1117?style=for-the-badge&logo=alibabacloud&logoColor=F5E6C8" alt="Qwen" />
-  <img src="https://img.shields.io/badge/Kimi-8B6914?style=for-the-badge" alt="Kimi" />
-  <img src="https://img.shields.io/badge/GLM-0D1117?style=for-the-badge" alt="GLM" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Doubao-8B6914?style=for-the-badge&logo=bytedance&logoColor=F5E6C8" alt="Doubao" />
-  <img src="https://img.shields.io/badge/Llama-0D1117?style=for-the-badge&logo=meta&logoColor=F5E6C8" alt="Llama" />
-  <img src="https://img.shields.io/badge/Mistral-8B6914?style=for-the-badge&logo=mistralai&logoColor=F5E6C8" alt="Mistral" />
-  <img src="https://img.shields.io/badge/Grok-0D1117?style=for-the-badge&logo=x&logoColor=F5E6C8" alt="Grok" />
-  <img src="https://img.shields.io/badge/MiniMax-8B6914?style=for-the-badge" alt="MiniMax" />
-  <img src="https://img.shields.io/badge/ERNIE-0D1117?style=for-the-badge&logo=baidu&logoColor=F5E6C8" alt="ERNIE" />
-  <img src="https://img.shields.io/badge/Hunyuan-8B6914?style=for-the-badge" alt="Hunyuan" />
-</p>
+<sub>ChatGPT · Claude · Gemini · DeepSeek · Grok · Mistral · Ollama · Hugging Face · LangChain<br />Also using: Qwen · Kimi · GLM · Doubao · Llama · MiniMax · ERNIE · Hunyuan</sub>
 
 **AI Coding & Agent Tools / AI 编程与智能体工具**
 
 <p>
-  <img src="https://img.shields.io/badge/Claude_Code-0D1117?style=for-the-badge&logo=anthropic&logoColor=F5E6C8" alt="Claude Code" />
-  <img src="https://img.shields.io/badge/Codex-8B6914?style=for-the-badge&logo=openai&logoColor=F5E6C8" alt="OpenAI Codex" />
-  <img src="https://img.shields.io/badge/Kiro-0D1117?style=for-the-badge" alt="Kiro" />
-  <img src="https://img.shields.io/badge/Cursor-8B6914?style=for-the-badge&logo=cursor&logoColor=F5E6C8" alt="Cursor" />
-  <img src="https://img.shields.io/badge/GitHub_Copilot-0D1117?style=for-the-badge&logo=githubcopilot&logoColor=F5E6C8" alt="GitHub Copilot" />
-  <img src="https://img.shields.io/badge/Windsurf-8B6914?style=for-the-badge" alt="Windsurf" />
-  <img src="https://img.shields.io/badge/Gemini_CLI-0D1117?style=for-the-badge&logo=googlegemini&logoColor=F5E6C8" alt="Gemini CLI" />
+  <img width="48" height="48" src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/claude-dark.svg" alt="Claude Code" title="Claude Code" />&nbsp;
+  <img width="48" height="48" src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/chatgpt-dark.svg" alt="OpenAI Codex" title="OpenAI Codex" />&nbsp;
+  <img width="48" height="48" src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/gemini-dark.svg" alt="Gemini CLI" title="Gemini CLI" />&nbsp;
+  <img width="48" height="48" src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/cursor-dark.svg" alt="Cursor" title="Cursor" />&nbsp;
+  <img width="48" height="48" src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/githubcopilot-dark.svg" alt="GitHub Copilot" title="GitHub Copilot" />&nbsp;
+  <img width="48" height="48" src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/microsoftcopilot-dark.svg" alt="Microsoft Copilot" title="Microsoft Copilot" />&nbsp;
+  <img width="48" height="48" src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/vscode-dark.svg" alt="VS Code Agent Ecosystem" title="VS Code Agent Ecosystem" />&nbsp;
+  <img width="48" height="48" src="https://raw.githubusercontent.com/LelouchFR/skill-icons/main/assets/warp-dark.svg" alt="Warp" title="Warp" />
 </p>
-<p>
-  <img src="https://img.shields.io/badge/Cline-8B6914?style=for-the-badge" alt="Cline" />
-  <img src="https://img.shields.io/badge/Roo_Code-0D1117?style=for-the-badge" alt="Roo Code" />
-  <img src="https://img.shields.io/badge/Aider-8B6914?style=for-the-badge" alt="Aider" />
-  <img src="https://img.shields.io/badge/Continue-0D1117?style=for-the-badge" alt="Continue" />
-  <img src="https://img.shields.io/badge/OpenCode-8B6914?style=for-the-badge" alt="OpenCode" />
-  <img src="https://img.shields.io/badge/Trae-0D1117?style=for-the-badge" alt="Trae" />
-</p>
+
+<sub>Claude Code · Codex · Gemini CLI · Cursor · GitHub Copilot · Microsoft Copilot · VS Code Agents · Warp<br />Also using: Kiro · Windsurf · Cline · Roo Code · Aider · Continue · OpenCode · Trae</sub>
 
 </div>
 
